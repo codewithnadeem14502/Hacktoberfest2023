@@ -125,6 +125,6 @@ For more information on syncing forks [read this article from Github](https://he
 
 ## Our Top Contributors
 
-<p align="center"><a href="https://github.com/codewithnadeem1450214502/Hacktoberfest2023/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=/codewithnadeem1450214502/Hacktoberfest2023" />
+<p align="center"><a href="https://github.com/codewithnadeem14502/Hacktoberfest2023/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=/codewithnadeem14502/Hacktoberfest2023" />
 </a></p>
