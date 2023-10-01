@@ -1,27 +1,22 @@
 # Hacktoberfest2023
 
-**Checkout this hacktoberfest  github repo  [Small challenges ](https://github.com/codewithnadeem14502/Hacktoberfest2023) **
+**Checkout this hacktoberfest github repo [Small challenges ](https://github.com/codewithnadeem14502/Hacktoberfest2023) **
 
+# Submit your PR on this new repo [Hacktoberfest](https://github.com/fineanmol/hacktoberfest) , There we are merging all PR.
 
-# Submit your PR on this new repo [Hacktoberfest](https://github.com/fineanmol/hacktoberfest) , There we are merging all PR. 
-
-In this current repo, there are alot of challenges/tasks, we are consider a each merge for a particular task for 
+In this current repo, there are alot of challenges/tasks, we are consider a each merge for a particular task for
 Hacktoberfest { [Live Website](https://fineanmol.github.io/Hacktoberfest2022/)}
-
 
 **This is a beginner-friendly project to help you get started with your
 [hacktoberfest](https://hacktoberfest.digitalocean.com/). If you don't know where to start, feel free to watch the videos linked below, and read the contribution rules. Happy Learning <3 💙 !!**
 
 P.S. Star ⭐ and Share this repository, if you had fun!! 😍
 
-
-
 # 📌 Videos 📽️:
 
 - [Hacktoberfest Intro](https://www.youtube.com/watch?v=mq_FIHdxmIk)
 - [How to pull request [Overview]](https://youtu.be/DIj2q02gvKs)
 - [Merge Conflict / comment](https://youtu.be/zOx5PJTY8CI)
-
 
 # Contribution Rules📚:
 
@@ -32,7 +27,6 @@ P.S. Star ⭐ and Share this repository, if you had fun!! 😍
 <!-- - Add your name to the contributorsList file. -->
 - Try to keep pull requests small to minimize merge conflicts
 
-
 ## Getting Started 🤩🤗:
 
 - Fork this repo (button on top)
@@ -41,7 +35,9 @@ P.S. Star ⭐ and Share this repository, if you had fun!! 😍
 ```terminal
 git clone https://github.com/codewithnadeem14502/Hacktoberfest2023.git
 ```
+
 - Navigate to project directory.
+
 ```terminal
 cd Hacktoberfest2023
 ```
@@ -57,16 +53,18 @@ git checkout -b my-new-branch
 ```markdown
 git add .
 ```
+
 - Commit your changes.
 
 ```markdown
 git commit -m "Relevant message"
 ```
-- Then push 
+
+- Then push
+
 ```markdown
 git push origin my-new-branch
 ```
-
 
 - Create a new pull request from your forked repository
 
@@ -74,18 +72,20 @@ git push origin my-new-branch
 
 ## Avoid Conflicts {Syncing your fork}
 
-An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.   
+An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.
 
 ```terminal
 git remote add upstream https://github.com/codewithnadeem14502/Hacktoberfest2023
 ```
 
 You can verify that the new remote has been added by typing
+
 ```terminal
 git remote -v
 ```
 
 To pull any new changes from your parent repo simply run
+
 ```terminal
 git merge upstream/master
 ```
@@ -94,18 +94,18 @@ This will give you any eventual conflicts and allow you to easily solve them in 
 
 For more information on syncing forks [read this article from Github](https://help.github.com/articles/syncing-a-fork/).
 
-
 # FAQs (Frequently Asked Questions)
 
 - Who all can contribute?
   - Anyone with a github account and who is signed up for
-[hacktoberfest](https://hacktoberfest.digitalocean.com/) :)
+    [hacktoberfest](https://hacktoberfest.digitalocean.com/) :)
 - Are you getting paid for this?
   - Sadly no. But we think we should. This is 100% unofficial and we do it for fun, fame and glory.
 - Who are you and why are you doing this?
   - We are two programmers from India [Anmol](https://www.linkedin.com/in/fineanmol/)
-  and [Ritesh](https://github.com/ritesh2905). We are doing this because we love Open Source and Hacktoberfest. We want to make it easier for people to get started with Hacktoberfest and Open Source.
+    and [Ritesh](https://github.com/ritesh2905). We are doing this because we love Open Source and Hacktoberfest. We want to make it easier for people to get started with Hacktoberfest and Open Source.
 - Why are you not using digitalocean?
+
   - Because we only know JavaScript and suck at servers. We use [now](https://zeit.co/now) instead.
 
 - Should I come closer to the text saying 'Don't come closer' on the left side of the home tab ?
@@ -119,13 +119,12 @@ For more information on syncing forks [read this article from Github](https://he
 - What is the event for?
   - For the open source community engagement and learn how to contribute to open source.
 
+###### _We will do our best to merge as much as possible from everyone. However, time is limited and the merge conflicts are horrible :astonished: <3_
 
-
-
-###### *We will do our best to merge as much as possible from everyone. However, time is limited and the merge conflicts are horrible :astonished: <3*
 <br>
 
-## Our Top Contributors 
-<p align="center"><a href="https://github.com/codewithnadeem/Hacktoberfest2023/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=/codewithnadeem/Hacktoberfest2023" />
+## Our Top Contributors
+
+<p align="center"><a href="https://github.com/codewithnadeem1450214502/Hacktoberfest2023/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=/codewithnadeem1450214502/Hacktoberfest2023" />
 </a></p>
