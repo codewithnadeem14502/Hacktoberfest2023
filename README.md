@@ -122,3 +122,10 @@ For more information on syncing forks [read this article from Github](https://he
 ###### _We will do our best to merge as much as possible from everyone. However, time is limited and the merge conflicts are horrible :astonished: <3_
 
 <br>
+<div align="center">
+<a href="https://github.com/Fenrir-04/Algo-Media/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Fenrir-04/Algo-Media" />
+</a>
+
+</a>
+</div>
