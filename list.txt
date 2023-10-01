@@ -7,10 +7,9 @@
     username: "Your GitHub profile Url",
   },
 */
-contributors = [
   {
     id: 1,
     fullname: "Mohd Nadeem",
     username: "https://github.com/codewithnadeem14502",
   },
-];
+
