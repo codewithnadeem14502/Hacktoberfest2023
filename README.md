@@ -5,7 +5,7 @@
 
 # Submit your PR on this new repo [Hacktoberfest](https://github.com/fineanmol/hacktoberfest) , There we are merging all PR. 
 
-In this current repo, there are alot of conflicts, we are not merging until all conflicts get resolved.
+In this current repo, there are alot of challenges/tasks, we are consider a each merge for a particular task for 
 Hacktoberfest { [Live Website](https://fineanmol.github.io/Hacktoberfest2022/)}
 
 
@@ -14,8 +14,7 @@ Hacktoberfest { [Live Website](https://fineanmol.github.io/Hacktoberfest2022/)}
 
 P.S. Star ⭐ and Share this repository, if you had fun!! 😍
 
-Hacktoberfest 2022
-![Event Completed](/scripts/Event_Completed_.png)
+
 
 # 📌 Videos 📽️:
 
@@ -95,11 +94,6 @@ This will give you any eventual conflicts and allow you to easily solve them in 
 
 For more information on syncing forks [read this article from Github](https://help.github.com/articles/syncing-a-fork/).
 
-## Swags of Hacktoberfest:
-- Many of the candidates get attracted towards hacktoberfest to get swags . So, after 4 successfully merged pull request as for 2021 you will be eligible to get a Hacktoberfest T-shirt and Some stickers on your doorstep.
- 
-     <li><B><p><img src="https://miro.medium.com/max/1050/1*4JctIO7irt8hFxBmTvUpiQ.jpeg" width="400" height="225" style="width: 400px; height: 225px;" alt="tshirt image"></a></p><p><img src="https://miro.medium.com/max/1050/1*jkffr74bq5RsQ_xqDhgqYQ.jpeg" width="400" height="225" style="width: 400px; height: 225px;" alt="stickers image"></p>
-</b></li>
 
 # FAQs (Frequently Asked Questions)
 
