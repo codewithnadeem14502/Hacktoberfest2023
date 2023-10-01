@@ -122,9 +122,3 @@ For more information on syncing forks [read this article from Github](https://he
 ###### _We will do our best to merge as much as possible from everyone. However, time is limited and the merge conflicts are horrible :astonished: <3_
 
 <br>
-
-## Our Top Contributors
-
-<p align="center"><a href="https://github.com/codewithnadeem14502/Hacktoberfest2023/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=/codewithnadeem14502/Hacktoberfest2023" />
-</a></p>
