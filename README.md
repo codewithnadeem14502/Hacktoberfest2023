@@ -123,8 +123,8 @@ For more information on syncing forks [read this article from Github](https://he
 
 <br>
 <div align="center">
-<a href="https://github.com/Fenrir-04/Algo-Media/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Fenrir-04/Algo-Media" />
+<a href="https://github.com/codewithnadeem14502/Hacktoberfest2023/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codewithnadeem14502/Hacktoberfest2023" />
 </a>
 
 </a>
