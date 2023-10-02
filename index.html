@@ -4,54 +4,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Web Development Contest</title>
-    <style>
-      body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-        background-color: #f0f0f0;
-      }
+    <link rel="stylesheet" href="style1.css" />
 
-      header {
-        background-color: rgb(255, 204, 0);
-        color: black;
-        text-align: center;
-        padding: 20px;
-      }
-
-      h1 {
-        margin: 0;
-      }
-
-      .container {
-        max-width: 1200px;
-        margin: 20px auto;
-        padding: 20px;
-        background-color: #fff;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-      }
-
-      .project {
-        border: 1px solid #ddd;
-        padding: 20px;
-        margin: 20px 0;
-        background-color: #fff;
-        border-radius: 20px;
-        cursor: pointer;
-      }
-
-      .project:hover {
-        background-color: rgb(205, 205, 103);
-      }
-
-      .project h2 {
-        font-size: 24px;
-      }
-
-      .project p {
-        font-size: 16px;
-      }
-    </style>
   </head>
   <body>
     <header>
@@ -59,14 +13,27 @@
       <p>Showcasing Five Cool Projects</p>
     </header>
     <div class="container">
-      <div class="project">
+      <div class="project" id="td1">
         <h2>1. To-Do List Application</h2>
-        <p>
-          Create a simple to-do list application where users can add tasks, mark
-          them as complete, and remove them.
-        </p>
-        <link rel="stylesheet" href="project" />
-        <!-- Add your To-Do List demo here -->
+        <div>
+          <div class="add">
+            <input
+              id="todo-description"
+              type="text"
+              placeholder="Write here..."
+            />
+            <button type="button" id="add-button"> Add </button>
+            <br>
+
+            <!-- Todo list  -->
+            <div class="listing">
+              <ul id="todo-list"></ul>
+            </div>
+          </div>
+        </div>
+        <br>
+
+
         <img
           src="data:image/png;base64,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"
           alt="demo image"
@@ -125,5 +92,6 @@
         />
       </div>
     </div>
+    <script src="script1.js"></script>
   </body>
 </html>
