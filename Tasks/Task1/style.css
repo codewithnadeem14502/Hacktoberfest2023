@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .add-task {
+    display: flex;
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"] {
+    flex: 1;
+    padding: 8px;
+  }
+  
+  button {
+    padding: 8px 15px;
+  }
+  
+  button:hover {
+    cursor: pointer;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+    color: gray;
+  }
+  
