@@ -1,0 +1,60 @@
+body {
+    background-color: rgba(245, 222, 179, 0.945);
+}
+
+.calculator {
+    background: gainsboro;
+    display: grid;
+    border: 5px solid black;
+    border-radius: 10px;
+    height: 600px;
+    width: fit-content;
+    margin: auto;
+    padding: 10px;
+    align-self: center;
+}
+
+.output {
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    height: 5.5rem;
+    font-size: 3rem;
+    text-align: end;
+    margin-bottom: 1rem;
+    padding: 1rem;
+}
+
+#tempOut {
+    font-style: oblique;
+    color: gray;
+    font-size: 50%;
+    margin-bottom: 1rem;
+}
+
+.numpad {
+    display: grid;
+}
+
+.row {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.col {
+    font-size: 1.5rem;
+    font-weight: 900;
+    border: solid black;
+    border-radius: 10px;
+    margin: 1px;
+    text-align: center;
+    padding: 1rem 2rem;
+}
+
+.row-1>.col-1 {
+    grid-column: 1 / span 2;
+}
+
+.col:hover {
+    background-color: rgba(12, 12, 12, 0.3);
+    cursor: pointer;
+}
