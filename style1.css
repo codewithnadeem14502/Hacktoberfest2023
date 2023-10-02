@@ -1,0 +1,142 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+  }
+
+  header {
+    background-color: rgb(255, 204, 0);
+    color: black;
+    text-align: center;
+    padding: 20px;
+  }
+
+  h1 {
+    margin: 0;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+
+  .project {
+    text-align: center;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px 0;
+    background-color: #fff;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+
+  .project:hover {
+    background-color: rgb(205, 205, 103);
+  }
+
+  .project h2 {
+    font-size: 24px;
+  }
+
+  .project p {
+    font-size: 16px;
+  }
+
+
+
+
+.search {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    width: 40%;
+    text-align: left;
+    margin-top: 120px;
+    font-size: 30px;
+    flex-direction: row;
+    border: 2px solid;
+    border-radius: 20px;
+}
+
+.add input {
+    width: 80%;
+    border: .2px solid black;
+    border-radius: 20px;
+    font-size: 34px;
+    margin-left: 0%;
+    overflow: hidden;
+    padding-left: 5px;
+    margin-bottom: 30px;
+    
+
+
+}
+
+input:focus {
+    outline: none;
+}
+
+.add button {
+    position: absolute;
+    font-size: 20px;
+    right: 12%;
+    border: none;
+    padding: auto;
+    text-align: center;
+    vertical-align: middle;
+    transition: 0.4s ease-in-out;
+    border-radius: 20px;
+    margin-top: 2px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: absolute;
+    overflow : hidden;
+    cursor: pointer;
+    background-color: rgba(198, 37, 37, 0.548);
+    color: white;
+}
+
+
+button:hover {
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+
+.listing{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+  
+  .listing ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .listing ul li {
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 10px;
+    background-color: rgb(202, 218, 148);
+    height: 100px;
+    width: 500px;
+    text-align: left;
+    padding: 10px 10px 10px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.2s;
+  }
+  
+  li:hover {
+    background-color: #ccc;
+  }
+  
+  li.completed {
+    text-decoration: line-through;
+  }
+  
